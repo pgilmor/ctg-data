@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1208</billNumber>
+    <createDate>2017-05-24T00:26:38Z</createDate>
+    <updateDate>2021-07-10T20:12:12Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <introducedDate>2017-05-23</introducedDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-10-16T20:45:27Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-07-26T14:00:44Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-23T21:14:59Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-171</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Strengthening the Department of Homeland Security Secure Mail Initiative Act</latestTitle>
+        <congress>115</congress>
+        <number>2595</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-12-12</actionDate>
+          <text>Ordered to be Reported by Voice Vote.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>FAMILIES Act</latestTitle>
+        <congress>115</congress>
+        <number>3478</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2018-09-18</actionDate>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2017-12-22</actionDate>
+        <actionTime>15:19:34</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-12-22</actionDate>
+        <actionTime>14:05:51</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-12-22</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-12-21</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with amendments by Unanimous Consent. (consideration: CR S8270-8271; text: CR S8270-8271)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-12-21</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S8270-8271; text: CR S8270-8271)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-16</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 241.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-10-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-171.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-16</actionDate>
+        <links />
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-171.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-05-23</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>Robert</firstName>
+        <middleName />
+        <lastName>Menendez</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>P000612</bioguideId>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <firstName>David</firstName>
+        <middleName>Alfred</middleName>
+        <lastName>Perdue</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <lisID>2286</lisID>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <middleName>E.</middleName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-09-26T12:52:00Z</pubDate>
+        <title>S. 1208, Strengthening the Department of Homeland Security Secure Mail Initiative Act</title>
+        <url>https://www.cbo.gov/publication/53139</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>U.S. Postal Service</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-05-23</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-09-20T18:15:40Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Strengthening the Department of Homeland Security Secure Mail Initiative Act</strong></p> <p>This bill directs the Department of Homeland Security (DHS) to provide for an option under which a person to whom a document is sent under the Secure Mail Initiative may elect to have the U.S. Postal Service (USPS) use the Hold for Pickup service or the Signature Confirmation service in delivering the document.</p> <p>DHS shall require payment of a fee for such services, which shall be deposited into the Immigration Examinations Fee Account and used to cover DHS and USPS costs of providing such services. The USPS: (1) may promulgate regulations that minimize such costs and do not require it to incur additional expenses that are not recoverable, and (2) shall notify DHS of any changes to such services.</p> <p>If DHS determines that substantially similar services offered by a private carrier would provide better service and value than the USPS services, it may discontinue use of the USPS services and enter into a contract with the private carrier. </p> <ul> </ul>]]></text>
+          <updateDate>2017-05-23T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>01</versionCode>
+          <actionDate>2017-10-16</actionDate>
+          <actionDesc>Reported to Senate with amendment(s)</actionDesc>
+          <lastSummaryUpdateDate>2018-02-16T22:09:53Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Strengthening the Department of Homeland Security Secure Mail Initiative Act</strong></p> <p>(Sec. 3) This bill directs the Department of Homeland Security (DHS) to provide for an option under which a person to whom a document is sent under the Secure Mail Initiative may elect to have the U.S. Postal Service (USPS) use the Hold for Pickup service or the Signature Confirmation service in delivering the document.</p> <p>DHS shall require payment of a fee for such services, which shall be deposited into the Immigration Examinations Fee Account and used to cover DHS and USPS costs of providing such services. The USPS: (1) may promulgate regulations that minimize such costs and do not require it to incur additional expenses that are not recoverable, and (2) shall notify DHS of any changes to such services.</p> <p>If DHS determines that substantially similar services offered by a private carrier would provide better service and value than the USPS services, it may discontinue use of the USPS services and enter into a contract with the private carrier. </p> <p>(Sec. 4) DHS must report to Congress within two years of this bill's enactment describing the implementation of requirements under this bill, the fee imposed, and the number of times during the previous year that a person used a service under this bill.</p>]]></text>
+          <updateDate>2017-10-16T13:20:51Z</updateDate>
+          <name>Reported to Senate with amendment(s)</name>
+        </item>
+        <item>
+          <versionCode>35</versionCode>
+          <actionDate>2017-12-21</actionDate>
+          <actionDesc>Passed Senate amended</actionDesc>
+          <lastSummaryUpdateDate>2018-02-16T22:10:13Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was reported to the Senate on October 16, 2017. The summary of that version is repeated here.)</p> <p><strong>Strengthening the Department of Homeland Security Secure Mail Initiative Act</strong></p> <p>(Sec. 3) This bill directs the Department of Homeland Security (DHS) to provide for an option under which a person to whom a document is sent under the Secure Mail Initiative may elect to have the U.S. Postal Service (USPS) use the Hold for Pickup service or the Signature Confirmation service in delivering the document.</p> <p>DHS shall require payment of a fee for such services, which shall be deposited into the Immigration Examinations Fee Account and used to cover DHS and USPS costs of providing such services. The USPS: (1) may promulgate regulations that minimize such costs and do not require it to incur additional expenses that are not recoverable, and (2) shall notify DHS of any changes to such services.</p> <p>If DHS determines that substantially similar services offered by a private carrier would provide better service and value than the USPS services, it may discontinue use of the USPS services and enter into a contract with the private carrier. </p> <p>(Sec. 4) DHS must report to Congress within two years of this bill's enactment describing the implementation of requirements under this bill, the fee imposed, and the number of times during the previous year that a person used a service under this bill.</p>]]></text>
+          <updateDate>2017-12-21T16:25:06Z</updateDate>
+          <name>Passed Senate amended</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Strengthening the Department of Homeland Security Secure Mail Initiative Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Strengthening the Department of Homeland Security Secure Mail Initiative Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to direct the Secretary of Homeland Security to provide for an option under the Secure Mail Initiative under which a person to whom a document is sent under that initiative may elect to have the United States Postal Service use the Hold for Pickup service or the Signature Confirmation service in delivering the document, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Strengthening the Department of Homeland Security Secure Mail Initiative Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Strengthening the Department of Homeland Security Secure Mail Initiative Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Strengthening the Department of Homeland Security Secure Mail Initiative Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2017-12-21T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1208es/xml/BILLS-115s1208es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2017-10-16T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1208rs/xml/BILLS-115s1208rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2017-05-23T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1208is/xml/BILLS-115s1208is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2017-12-22</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>15:19:34</actionTime>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0241</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>555</billNumber>
+    <createDate>2017-01-14T04:47:33Z</createDate>
+    <updateDate>2021-07-10T20:12:16Z</updateDate>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <introducedDate>2017-01-13</introducedDate>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 9 (Friday, January 13, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KINZINGER:H.R.555.Congress has the power to enact this legislation pursuantto the following:The Fourteenth Amendment, Section 1[Rights Gauaranteed]; .. . the means employed to effect its exercise may be neitherarbitrary nor oppressive but must bear areal and substantialrelation to an end that is public, specifically, the publichealth, safety, or morals, or some other aspectof the generalwelfare.[Page H547]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-24T19:12:10Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-13T14:05:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Interior, Environment, Financial Services and General Government, Agriculture, Rural Development, Food and Drug Administration, and Transportation, Housing and Urban Development Appropriations Act, 2019</latestTitle>
+        <congress>115</congress>
+        <number>6147</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2018-09-07</actionDate>
+          <text>Message on Senate action sent to the House.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>RAY BAUM'S Act of 2018</latestTitle>
+        <congress>115</congress>
+        <number>4986</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2018-03-07</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Amateur Radio Parity Act of 2017</latestTitle>
+        <congress>115</congress>
+        <number>1534</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2017-07-12</actionDate>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>John S. McCain National Defense Authorization Act for Fiscal Year 2019</latestTitle>
+        <congress>115</congress>
+        <number>5515</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2018-08-13</actionDate>
+          <text>Became Public Law No: 115-232.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-23</actionDate>
+        <actionTime>17:01:10</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-01-23</actionDate>
+        <actionTime>17:01:07</actionTime>
+        <links />
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H581-582)</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-01-23</actionDate>
+        <actionTime>17:01:07</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H581-582)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-01-23</actionDate>
+        <actionTime>16:46:16</actionTime>
+        <links />
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 555.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-01-23</actionDate>
+        <actionTime>16:46:14</actionTime>
+        <links />
+        <text>Considered under suspension of the rules. (consideration: CR H581-583)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-01-23</actionDate>
+        <actionTime>16:45:54</actionTime>
+        <links />
+        <text>Mr. Lance moved to suspend the rules and pass the bill.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-01-13</actionDate>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2017-01-13</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-01-13</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <considerationByHouse>1</considerationByHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>K000378</bioguideId>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <firstName>Adam</firstName>
+        <middleName />
+        <lastName>Kinzinger</lastName>
+        <party>R</party>
+        <state>IL</state>
+        <identifiers>
+          <lisID>2014</lisID>
+          <bioguideId>K000378</bioguideId>
+          <gpoId>7931</gpoId>
+        </identifiers>
+        <district>16</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001069</bioguideId>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <firstName>Joe</firstName>
+        <middleName />
+        <lastName>Courtney</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <lisID>1836</lisID>
+          <bioguideId>C001069</bioguideId>
+          <gpoId>7867</gpoId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000791</bioguideId>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <firstName>GREG</firstName>
+        <middleName />
+        <lastName>WALDEN</lastName>
+        <party>R</party>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1596</lisID>
+          <bioguideId>W000791</bioguideId>
+          <gpoId>8115</gpoId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Broadcasting, cable, digital technologies</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>Federal preemption</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-01-13</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-02-01T23:18:42Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Amateur Radio Parity Act of 2017</b></p> <p><strong></strong></p> <p>This bill directs the Federal Communications Commission (FCC) to amend station antenna structure regulations to prohibit a private land use restriction from applying to amateur radio stations if the restriction:</p> <ul> <li>precludes communications in an amateur radio service, </li> <li>fails to permit a licensee of amateur radio service to install and maintain an effective outdoor antenna on property under its exclusive use or control, or </li> <li>is not the minimum practicable restriction to accomplish the lawful purposes of a community association seeking to enforce the restriction. </li></ul> <p>Before installing an outdoor antenna, however, an amateur radio licensee must obtain a community association's prior approval. A community association may: (1) prohibit installations on common property not under the exclusive control of the licensee, and (2) establish installation rules for amateur radio antennas and support structures.</p>]]></text>
+          <updateDate>2017-01-13T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <versionCode>81</versionCode>
+          <actionDate>2017-01-23</actionDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-02-01T23:18:53Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Amateur Radio Parity Act of</b> <b>2017</b></p> <p>(Sec. 3) This bill directs the Federal Communications Commission (FCC) to amend station antenna structure regulations to prohibit a private land use restriction from applying to amateur radio stations if the restriction:</p> <ul> <li>precludes communications in an amateur radio service, </li> <li>fails to permit a licensee of amateur radio service to install and maintain an effective outdoor antenna on property under its exclusive use or control, or </li> <li>is not the minimum practicable restriction to accomplish the lawful purposes of a community association seeking to enforce the restriction. </li></ul> <p>Before installing an outdoor antenna, however, an amateur radio licensee must obtain a community association's prior approval. A community association may: (1) prohibit installations on common property not under the exclusive control of the licensee, and (2) establish installation rules for amateur radio antennas and support structures.</p>]]></text>
+          <updateDate>2017-01-23T14:19:37Z</updateDate>
+          <name>Passed House without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Amateur Radio Parity Act of 2017</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To direct the Federal Communications Commission to amend its rules so as to prohibit the application to amateur stations of certain private land use restrictions, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Amateur Radio Parity Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Amateur Radio Parity Act of 2017</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Amateur Radio Parity Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Referred in Senate</type>
+        <date>2017-01-24T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr555rfs/xml/BILLS-115hr555rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2017-01-23T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr555eh/xml/BILLS-115hr555eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2017-01-13T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr555ih/xml/BILLS-115hr555ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2017-01-24</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

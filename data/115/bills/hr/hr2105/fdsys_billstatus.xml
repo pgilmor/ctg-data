@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2105</billNumber>
+    <createDate>2017-04-21T03:11:51Z</createDate>
+    <updateDate>2021-07-10T20:11:56Z</updateDate>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <introducedDate>2017-04-20</introducedDate>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 68 (Thursday, April 20, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WEBSTER of Florida:H.R. 2105.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18:The Congress shall have power to make all Laws which shallbe necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department of Officer thereof.[Page H2812]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-16T22:26:49Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-05-02T16:42:01Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-20T20:01:25Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>NIST Small Business Cybersecurity Act</latestTitle>
+        <congress>115</congress>
+        <number>770</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2018-08-14</actionDate>
+          <text>Became Public Law No: 115-236.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2017-10-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionTime>14:20:33</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionTime>14:20:31</actionTime>
+        <links />
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7936-7937)</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionTime>14:20:31</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7936-7937)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionTime>13:56:09</actionTime>
+        <links />
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2105.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionTime>13:56:05</actionTime>
+        <links />
+        <text>Considered under suspension of the rules. (consideration: CR H7936-7939)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionTime>13:55:19</actionTime>
+        <links />
+        <text>Mr. Webster (FL) moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>hssy00</systemCode>
+            <name>Science, Space, and Technology Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>hssy00</systemCode>
+            <name>Science, Space, and Technology Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-20</actionDate>
+        <links />
+        <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssy00</systemCode>
+            <name>Science, Space, and Technology Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2017-04-20</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-04-20</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <considerationByHouse>1</considerationByHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <orderedToBeReported>1</orderedToBeReported>
+        <committeeConsiderationMarkUp>1</committeeConsiderationMarkUp>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>W000806</bioguideId>
+        <fullName>Rep. Webster, Daniel [R-FL-11]</fullName>
+        <firstName>Daniel</firstName>
+        <middleName />
+        <lastName>Webster</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2002</lisID>
+          <bioguideId>W000806</bioguideId>
+          <gpoId>7880</gpoId>
+        </identifiers>
+        <district>11</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>L000563</bioguideId>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <firstName>Daniel</firstName>
+        <middleName>William</middleName>
+        <lastName>Lipinski</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <lisID>1781</lisID>
+          <bioguideId>L000563</bioguideId>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S000583</bioguideId>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <firstName>LAMAR</firstName>
+        <middleName />
+        <lastName>SMITH</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1075</lisID>
+          <bioguideId>S000583</bioguideId>
+          <gpoId>8177</gpoId>
+        </identifiers>
+        <district>21</district>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001105</bioguideId>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <firstName>Barbara</firstName>
+        <middleName />
+        <lastName>Comstock</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2273</lisID>
+          <bioguideId>C001105</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <firstName>Jacklyn</firstName>
+        <middleName />
+        <lastName>Rosen</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <lisID>2339</lisID>
+          <bioguideId>R000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H001059</bioguideId>
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+        <firstName>Randy</firstName>
+        <middleName />
+        <lastName>Hultgren</lastName>
+        <party>R</party>
+        <state>IL</state>
+        <identifiers>
+          <lisID>2015</lisID>
+          <bioguideId>H001059</bioguideId>
+          <gpoId>7934</gpoId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000387</bioguideId>
+        <fullName>Rep. Knight, Stephen [R-CA-25]</fullName>
+        <firstName>Stephen</firstName>
+        <middleName />
+        <lastName>Knight</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2228</lisID>
+          <bioguideId>K000387</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>25</district>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000585</bioguideId>
+        <fullName>Rep. LaHood, Darin [R-IL-18]</fullName>
+        <firstName>Darin</firstName>
+        <middleName />
+        <lastName>LaHood</lastName>
+        <party>R</party>
+        <state>IL</state>
+        <identifiers>
+          <lisID>2295</lisID>
+          <bioguideId>L000585</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>18</district>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001198</bioguideId>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <firstName>Roger</firstName>
+        <middleName>W.</middleName>
+        <lastName>Marshall</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <lisID>2328</lisID>
+          <bioguideId>M001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000599</bioguideId>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <firstName>Bill</firstName>
+        <middleName />
+        <lastName>Posey</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>T000478</bioguideId>
+        <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
+        <firstName>Claudia</firstName>
+        <middleName />
+        <lastName>Tenney</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2344</lisID>
+          <bioguideId>T000478</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>22</district>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>D000628</bioguideId>
+        <fullName>Rep. Dunn, Neal P. [R-FL-2]</fullName>
+        <firstName>Neal</firstName>
+        <middleName>P.</middleName>
+        <lastName>Dunn</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2315</lisID>
+          <bioguideId>D000628</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000491</bioguideId>
+        <fullName>Rep. Lucas, Frank D. [R-OK-3]</fullName>
+        <firstName>FRANK</firstName>
+        <middleName>D.</middleName>
+        <lastName>LUCAS</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <lisID>711</lisID>
+          <bioguideId>L000491</bioguideId>
+          <gpoId>8111</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001278</bioguideId>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <firstName>Suzanne</firstName>
+        <middleName />
+        <lastName>Bonamici</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001166</bioguideId>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <firstName>Jerry</firstName>
+        <middleName />
+        <lastName>McNerney</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1832</lisID>
+          <bioguideId>M001166</bioguideId>
+          <gpoId>7816</gpoId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000487</bioguideId>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <firstName>ED</firstName>
+        <middleName />
+        <lastName>ROYCE</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>998</lisID>
+          <bioguideId>R000487</bioguideId>
+          <gpoId>7845</gpoId>
+        </identifiers>
+        <district>39</district>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>T000475</bioguideId>
+        <fullName>Rep. Trott, David A. [R-MI-11]</fullName>
+        <firstName>David</firstName>
+        <middleName>A.</middleName>
+        <lastName>Trott</lastName>
+        <party>R</party>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2250</lisID>
+          <bioguideId>T000475</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001298</bioguideId>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <firstName>Don</firstName>
+        <middleName />
+        <lastName>Bacon</lastName>
+        <party>R</party>
+        <state>NE</state>
+        <identifiers>
+          <lisID>2337</lisID>
+          <bioguideId>B001298</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-05-19T19:02:00Z</pubDate>
+        <title>H.R. 2105, NIST Small Business Cybersecurity Act of 2017</title>
+        <url>https://www.cbo.gov/publication/52746</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-04-20</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-05-04T22:03:54Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>NIST Small Business Cybersecurity Act of 2017</b></p> <p>This bill amends the National Institute of Standards and Technology Act to require the National Institute of Standards and Technology (NIST) to consider small businesses when it facilitates and supports the development of voluntary, consensus-based, industry-led guidelines and procedures to cost-effectively reduce cyber risks to critical infrastructure. </p> <p>NIST must consult with other federal agencies to disseminate, and publish on its website, standard and method resources that small business may use voluntarily to help identify, assess, manage, and reduce their cybersecurity risks. The resources must be: (1) technology-neutral, (2) based on international standards to the extent possible, (3) able to vary with the nature and size of the implementing small business and the sensitivity of the data collected or stored on the information systems, (4) capable of promoting awareness of third-party stakeholder relationships to assist small businesses in mitigating common cybersecurity risks, and (5) consistent with the national cybersecurity awareness and education program under the Cybersecurity Enhancement Act of 2014. </p> <p>Other federal agencies may elect to publish the resources on their own websites. </p>]]></text>
+          <updateDate>2017-04-20T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <versionCode>36</versionCode>
+          <actionDate>2017-10-11</actionDate>
+          <actionDesc>Passed House amended</actionDesc>
+          <lastSummaryUpdateDate>2017-11-02T18:23:02Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>NIST Small Business Cybersecurity Act </b></p> <p>(Sec. 2) This bill amends the National Institute of Standards and Technology Act to require the National Institute of Standards and Technology (NIST) to consider small businesses when it facilitates and supports the development of voluntary, consensus-based, industry-led guidelines and procedures to cost-effectively reduce cyber risks to critical infrastructure. </p> <p>NIST must consult with other federal agencies to disseminate, and publish on its website, standard and method resources that small business may use voluntarily to help identify, assess, manage, and reduce their cybersecurity risks. The resources must: (1) include case studies&nbsp;of practical application, (2) be based on international standards to the extent possible, (3) be able to vary with the nature and size of the implementing small business and the sensitivity of the data collected or stored on the information systems, (4) be capable of promoting awareness of third-party stakeholder relationships to assist small businesses in mitigating common cybersecurity risks, and (5) be consistent with the national cybersecurity awareness and education program under the Cybersecurity Enhancement Act of 2014. </p> <p>Other federal agencies may elect to publish the resources on their own websites. </p>]]></text>
+          <updateDate>2017-10-11T12:37:09Z</updateDate>
+          <name>Passed House amended</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>NIST Small Business Cybersecurity Act</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To require the Director of the National Institute of Standards and Technology to disseminate guidance to help reduce small business cybersecurity risks, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>NIST Small Business Cybersecurity Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>NIST Small Business Cybersecurity Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>NIST Small Business Cybersecurity Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Referred in Senate</type>
+        <date>2017-10-16T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr2105rfs/xml/BILLS-115hr2105rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2017-10-11T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr2105eh/xml/BILLS-115hr2105eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2017-04-20T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr2105ih/xml/BILLS-115hr2105ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2017-10-16</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

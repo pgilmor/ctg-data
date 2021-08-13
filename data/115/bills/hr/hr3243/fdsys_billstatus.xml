@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>3243</billNumber>
+    <createDate>2017-07-15T03:11:33Z</createDate>
+    <updateDate>2021-07-10T20:11:06Z</updateDate>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <introducedDate>2017-07-14</introducedDate>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 119 (Friday, July 14, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CONNOLLY:H.R. 3243.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8 Clause 18 of the United StatesConstitution[Page H5885]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>563</rollNumber>
+        <url>https://clerk.house.gov/evs/2017/roll563.xml</url>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <chamber>House</chamber>
+        <congress>115</congress>
+        <date>2017-10-11T21:03:02Z</date>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-10-10T17:28:58Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-07-19T17:07:37Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-14T13:02:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-344</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>FITARA Enhancement Act of 2017</latestTitle>
+        <congress>115</congress>
+        <number>1867</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2018-05-10</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 408.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2017-11-21</actionDate>
+        <links />
+        <text>Became Public Law No: 115-88.</text>
+        <type>President</type>
+        <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-11-21</actionDate>
+        <links />
+        <text>Became Public Law No: 115-88.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-11-21</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>President</type>
+        <actionCode>E30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-11-21</actionDate>
+        <links />
+        <text>Signed by President.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-11-09</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>Floor</type>
+        <actionCode>E20000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-11-09</actionDate>
+        <links />
+        <text>Presented to President.</text>
+        <type>President</type>
+        <actionCode>28000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-11-09</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-11-08</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S7121)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-11-08</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7121)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-16</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate, read twice.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionTime>17:03:03</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionTime>17:03:02</actionTime>
+        <links />
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 563). (text: CR H7956)</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionTime>17:03:02</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 563).(text: CR H7956)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionTime>16:56:04</actionTime>
+        <links />
+        <text>Considered as unfinished business. (consideration: CR H7958-7959)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionTime>16:14:48</actionTime>
+        <links />
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <type>Floor</type>
+        <actionCode>H37220</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionTime>16:00:47</actionTime>
+        <links />
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3243.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionTime>16:00:45</actionTime>
+        <links />
+        <text>Considered under suspension of the rules. (consideration: CR H7955-7957)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionTime>16:00:07</actionTime>
+        <links />
+        <text>Mr. Russell moved to suspend the rules and pass the bill.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-10</actionDate>
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 249.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-10-10</actionDate>
+        <links />
+        <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 115-344.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2017-10-10</actionDate>
+        <links />
+        <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 115-344.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <publicLawOrPrivateLaw>1</publicLawOrPrivateLaw>
+        <becamePublicLaw>2</becamePublicLaw>
+        <signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>1</signedByPresidentOrSentToArchivistOfTheUnitedStatesUnsignedOrVetoedByPresidentOrPocketVetoedByPresident>
+        <presentedToPresident>2</presentedToPresident>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>2</considerationByHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <generalDebate>1</generalDebate>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <reportedToHouse>1</reportedToHouse>
+        <orderedToBeReported>1</orderedToBeReported>
+        <committeeConsiderationMarkUp>1</committeeConsiderationMarkUp>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001078</bioguideId>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <firstName>Gerald</firstName>
+        <middleName>E.</middleName>
+        <lastName>Connolly</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <district>11</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>I000056</bioguideId>
+        <fullName>Rep. Issa, Darrell E. [R-CA-49]</fullName>
+        <firstName>DARRELL</firstName>
+        <middleName>E.</middleName>
+        <lastName>ISSA</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1640</lisID>
+          <bioguideId>I000056</bioguideId>
+          <gpoId>7854</gpoId>
+        </identifiers>
+        <district>49</district>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001187</bioguideId>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <firstName>Mark</firstName>
+        <middleName />
+        <lastName>Meadows</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000385</bioguideId>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <firstName>Robin</firstName>
+        <middleName>L.</middleName>
+        <lastName>Kelly</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <lisID>2190</lisID>
+          <bioguideId>K000385</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-09-29T15:16:36Z</pubDate>
+        <title>H.R. 3243, FITARA Enhancement Act of 2017</title>
+        <url>https://www.cbo.gov/publication/53173</url>
+      </item>
+    </cboCostEstimates>
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>115-88</number>
+      </item>
+    </laws>
+    <notes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-07-14</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2018-07-02T22:05:07Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>FITARA Enhancement Act of 2017</b></p> <p>This bill repeals the expiration date of (thus making permanent) provisions of the Carl Levin and Howard P. Buck McKeon National Defense Authorization Act for Fiscal Year 2015 that require: (1) the Office of Management and Budget (OMB) to make available to the public a list of each major information technology investment made by a covered agency for information technology, including data on cost, schedule, and performance; (2) the Chief Information Officer of each covered agency and the program manager of the investment within the agency to conduct a risk management review of those investments that have received a high risk rating for four consecutive quarters; and (3) the implementation by OMB of a process to assist the covered agencies in reviewing their portfolio of information technology investments. </p> <p>The bill amends such Act to extend the Federal Data Center Consolidation Initiative through FY2020. </p>]]></text>
+          <updateDate>2017-07-14T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <versionCode>79</versionCode>
+          <actionDate>2017-10-10</actionDate>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2018-07-09T16:00:24Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>FITARA Enhancement Act of 2017</b></p> <p>(Sec. 2) This bill repeals the expiration date of (thus making permanent) provisions of the Carl Levin and Howard P. Buck McKeon National Defense Authorization Act for Fiscal Year 2015 that require: (1) the Office of Management and Budget (OMB) to make available to the public a list of each major information technology investment made by a covered agency for information technology, including data on cost, schedule, and performance; (2) the Chief Information Officer of each covered agency and the program manager of the investment within the agency to conduct a risk management review of those investments that have received a high risk rating for four consecutive quarters; and (3) the implementation by OMB of a process to assist the covered agencies in reviewing their portfolio of information technology investments. </p> <p>(Sec. 4) The bill amends such Act to extend the Federal Data Center Consolidation Initiative through FY2020. </p>]]></text>
+          <updateDate>2017-10-10T13:06:41Z</updateDate>
+          <name>Reported to House without amendment</name>
+        </item>
+        <item>
+          <versionCode>81</versionCode>
+          <actionDate>2017-10-11</actionDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-10-16T21:50:47Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)</p> <p><b>FITARA Enhancement Act of 2017</b></p> <p>(Sec. 2) This bill repeals the expiration date of (thus making permanent) provisions of the Carl Levin and Howard P. Buck McKeon National Defense Authorization Act for Fiscal Year 2015 that require: (1) the Office of Management and Budget (OMB) to make available to the public a list of each major information technology investment made by an executive agency for information technology, including data on cost, schedule, and performance; (2) the Chief Information Officer of each agency and the program manager of the investment within the agency to conduct a risk management review of those investments that have received a high risk rating for four consecutive quarters; and (3) the implementation by OMB of a process to assist certain federal agencies in reviewing their portfolio of information technology investments. </p> <p>(Sec. 4) The bill amends the National Defense Authorization Act for Fiscal Year 2015 to extend the Federal Data Center Consolidation Initiative through FY2020. </p>]]></text>
+          <updateDate>2017-10-11T12:43:14Z</updateDate>
+          <name>Passed House without amendment</name>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <actionDate>2017-11-08</actionDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-12-01T16:03:07Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)</p> <p><b>FITARA Enhancement Act of 2017</b></p> <p>(Sec. 2) This bill repeals the expiration date of (thus making permanent) provisions of the Carl Levin and Howard P. Buck McKeon National Defense Authorization Act for Fiscal Year 2015 that require: (1) the Office of Management and Budget (OMB) to make available to the public a list of each major information technology investment made by an executive agency for information technology, including data on cost, schedule, and performance; (2) the Chief Information Officer of each agency and the program manager of the investment within the agency to conduct a risk management review of those investments that have received a high risk rating for four consecutive quarters; and (3) the implementation by OMB of a process to assist certain federal agencies in reviewing their portfolio of information technology investments. </p> <p>(Sec. 4) The bill amends the National Defense Authorization Act for Fiscal Year 2015 to extend the Federal Data Center Consolidation Initiative through FY2020. </p>]]></text>
+          <updateDate>2017-11-08T15:29:29Z</updateDate>
+          <name>Passed Senate without amendment</name>
+        </item>
+        <item>
+          <versionCode>49</versionCode>
+          <actionDate>2017-11-21</actionDate>
+          <actionDesc>Public Law</actionDesc>
+          <lastSummaryUpdateDate>2018-06-19T20:23:55Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>FITARA Enhancement Act of 2017</b></p> <p>(Sec. 2) This bill repeals the expiration date of (thus making permanent) provisions of the Carl Levin and Howard P. &quot;Buck&quot; McKeon National Defense Authorization Act for Fiscal Year 2015 that require: (1) the Office of Management and Budget (OMB) to make available to the public a list of each major information technology investment made by a covered agency for information technology, including data on cost, schedule, and performance; (2) the Chief Information Officer of each covered agency and the program manager of the investment within the agency to conduct a risk management review of those investments that have received a high risk rating for four consecutive quarters; and (3) the implementation by OMB of a process to assist the covered agencies in reviewing their portfolio of information technology investments. </p> <p>(Sec. 4) The bill amends such Act to extend the Federal Data Center Consolidation Initiative through FY2020. </p>]]></text>
+          <updateDate>2017-11-22T04:59:58Z</updateDate>
+          <name>Public Law</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>FITARA Enhancement Act of 2017</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Enacted</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <title>FITARA Enhancement Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>FITARA Enhancement Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>FITARA Enhancement Act of 2017</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend title 40, United States Code, to eliminate the sunset of certain provisions relating to information technology, to amend the National Defense Authorization Act for Fiscal Year 2015 to extend the sunset relating to the Federal Data Center Consolidation Initiative, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>FITARA Enhancement Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>FITARA Enhancement Act of 2017</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>FITARA Enhancement Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date />
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr3243enr/xml/BILLS-115hr3243enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Received in Senate</type>
+        <date>2017-10-16T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr3243rds/xml/BILLS-115hr3243rds.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2017-10-11T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr3243eh/xml/BILLS-115hr3243eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported in House</type>
+        <date>2017-10-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr3243rh/xml/BILLS-115hr3243rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2017-07-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr3243ih/xml/BILLS-115hr3243ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2017-11-21</actionDate>
+      <text>Became Public Law No: 115-88.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>U00249</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
